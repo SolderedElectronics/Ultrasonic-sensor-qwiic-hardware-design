@@ -1,0 +1,5 @@
+SKU: 333001
+Full product name: Ultrasonic sensor with easyC
+Country of origin: Croatia
+HS tariff code: 84799090   
+EAN/UPC barcode: 
