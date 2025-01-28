@@ -1,5 +1,5 @@
 SKU: 333001
-Full product name: Ultrasonic sensor with easyC
+Full product name: Ultrasonic sensor qwiic
 Country of origin: Croatia
-HS tariff code: 84799090   
-EAN/UPC barcode: 
+HS tariff code: 85340090
+EAN/UPC barcode: 732388678303
